@@ -1,0 +1,5539 @@
+[
+    {
+       "id":50987,
+       "annotations":[
+          {
+             "id":4059,
+             "completed_by":{
+                "id":31,
+                "email":"sakter6@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T23:17:52.782566Z",
+             "updated_at":"2024-02-12T23:18:01.565520Z",
+             "lead_time":91.472,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":50987
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":315,
+          "MWE":"βάζω το κεφάλι μου στον ντορβά",
+          "Greek":"Μακάρι να επιτύχουν οι άνθρωποι, αλλά ας γνωρίζουν ότι ήδη «έβαλαν το κεφάλι στον τορβά»!",
+          "GPT_aided":"\"May people succeed, but they should know that they've already stuck their necks out!\"\n",
+          "GPT_unaided":"\"May people succeed, but let them know that they have already 'put their head in the bag'!\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.500291Z",
+       "updated_at":"2024-02-12T23:18:01.525428Z",
+       "project":95
+    },
+    {
+       "id":51095,
+       "annotations":[
+          {
+             "id":4009,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"EMEPlW8Ota",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"j7Af3jDskh",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"mb_Zw59KJj",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:16:44.939074Z",
+             "updated_at":"2024-02-11T22:17:35.035882Z",
+             "lead_time":4798.228,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51095
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":313,
+          "MWE":"κόβω την όρεξη σε κάποιον",
+          "Greek":"Άθλιοι της ψευτοκυβέρνησης των …αποτυχημένων όταν έναν δημόσιο υπάλληλο του  μειώνεις τον μισθό από 1200 ευρώ σε ….700 ευρώ , πως είναι δυνατόν ο υπάλληλος  αυτός να αποδώσει όταν του κόβεις την ‘’όρεξη ‘’ για εργασία!",
+          "GPT_aided":"\"Miserable are the actions of this fake government of…failures. When you reduce a public servant's wage from 1200 euros down to 700 euros, how is it possible for this employee to perform when you're killing their motivation to work?\"\n",
+          "GPT_unaided":"\"Miserable people of the false government of the... failed, when you reduce a public employee's salary from 1200 euros to... 700 euros, how is it possible for this employee to perform when you cut off his 'appetite' for work!\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.513968Z",
+       "updated_at":"2024-02-11T22:17:34.996972Z",
+       "project":95
+    },
+    {
+       "id":51093,
+       "annotations":[
+          {
+             "id":4007,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"0U-eOSwQFt",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"2_nDkTwlY7",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"RFMRegoxro",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:13:08.147535Z",
+             "updated_at":"2024-02-11T22:15:20.592073Z",
+             "lead_time":4663.789,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51093
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":317,
+          "MWE":"βάζω το κεφάλι μου στον ντορβά",
+          "Greek":"Όλοι τους τελικά έβαλαν τα κεφάλια τους στον τορβά.",
+          "GPT_aided":"\"In the end, they all stuck their necks out.\"\n",
+          "GPT_unaided":"\"Eventually, they all put their heads in the sack.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.513837Z",
+       "updated_at":"2024-02-11T22:15:20.551361Z",
+       "project":95
+    },
+    {
+       "id":51094,
+       "annotations":[
+          {
+             "id":4008,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"tOehTwxnY_",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"Zcygeo6UIN",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"74YhfnP5DZ",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:14:12.877083Z",
+             "updated_at":"2024-02-11T22:15:14.826160Z",
+             "lead_time":4658.023,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51094
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":316,
+          "MWE":"βάζω το κεφάλι μου στον ντορβά",
+          "Greek":"Δέχομαι ότι παρέλαβες χάος κι ότι έβαλες το κεφάλι στον τορβά επειδή πονάς κι αγαπάς.",
+          "GPT_aided":"\"I accept that you have received chaos and that you stuck your neck out because you hurt and love.\"\n",
+          "GPT_unaided":"\"I accept that you inherited chaos and that you put your head in the sand because you hurt and love.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.513900Z",
+       "updated_at":"2024-02-11T22:15:14.785990Z",
+       "project":95
+    },
+    {
+       "id":51092,
+       "annotations":[
+          {
+             "id":4006,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"FzCmWyIdDy",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"MpwolRXAlE",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"tM0F6PmAIv",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:12:37.002605Z",
+             "updated_at":"2024-02-11T22:12:49.405321Z",
+             "lead_time":4512.602,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51092
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":319,
+          "MWE":"βάζω το κεφάλι μου στον ντορβά",
+          "Greek":"Εδώ έχει τον ίδιο λόγο για τις αποφάσεις για τη σωτηρία της χώρας και αυτός που βάζει στον τορβά το κεφάλι του αλλά και οι πλείστοι που έβγαλαν τα λεφτουδάκια τους στο εξωτερικό.",
+          "GPT_aided":"\"Here, the same rationale applies to decisions about the country's salvation, both for the one who sticks his neck out and for the majority who have moved their small fortunes abroad.\"\n",
+          "GPT_unaided":"\"Here, the same applies to the decisions concerning the country's salvation and to him who puts his head in the sand, as well as to the majority who has taken their small fortune abroad.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.513759Z",
+       "updated_at":"2024-02-11T22:12:49.367886Z",
+       "project":95
+    },
+    {
+       "id":51090,
+       "annotations":[
+          {
+             "id":4004,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"0uC1LkOZDX",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"uVutlspGY0",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"wQYChFWGpS",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:10:09.623980Z",
+             "updated_at":"2024-02-11T22:10:13.056519Z",
+             "lead_time":4356.247,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51090
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":322,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Τις έκοψες τις γέφυρες",
+          "GPT_aided":"\"Did you burn the bridges?\"\n",
+          "GPT_unaided":"\"Who cut the bridges?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.513580Z",
+       "updated_at":"2024-02-11T22:10:13.017182Z",
+       "project":95
+    },
+    {
+       "id":51086,
+       "annotations":[
+          {
+             "id":4001,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"YleJQkuB3-",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"L0geGguOGy",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"RZQGUur1YB",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:07:06.501499Z",
+             "updated_at":"2024-02-11T22:07:32.379778Z",
+             "lead_time":4195.516,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51086
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":326,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Oι Τούρκοι ήθελαν \"και την πίττα γεμάτη και το σκύλο χορτάτο\", αλλά προφανώς αυτό δεν γίνεται, ιδιαίτερα με την ακραία πολιτική που ακολουθεί ο Ερντογάν και έτσι η Κομισιόν του έκοψε διακριτικά τις γέφυρες, προς το παρόν.",
+          "GPT_aided":"\"The Turks wanted \"both a full pie and a satiated dog\", but obviously this is not possible, especially with the extreme politics that Erdogan is following and so the Commission discreetly burned its bridges with him, for now.\"\n",
+          "GPT_unaided":"\"The Turks wanted 'both the pie to be full and the dog to be fed,' but obviously, this is not possible, especially with the extreme policy that Erdogan is following, and so the European Commission has discreetly cut the bridges with them, for now.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.507295Z",
+       "updated_at":"2024-02-11T22:07:32.308630Z",
+       "project":95
+    },
+    {
+       "id":51068,
+       "annotations":[
+          {
+             "id":3983,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"AkvqN9L0Zc",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"LQfVSBUSt5",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"1S--oszRxV",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:31:59.610457Z",
+             "updated_at":"2024-02-11T21:32:13.249451Z",
+             "lead_time":2076.494,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51068
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":350,
+          "MWE":"βάζω στο τραπέζι κάτι",
+          "Greek":"Όλα τα «όπλα» στο τραπέζι βάζει ο Μητσοτάκης απέναντι στην τουρκική επιθετικότητα.",
+          "GPT_aided":"\"Mitsotakis puts all the 'weapons' on the table against Turkish aggression.\"\n",
+          "GPT_unaided":"\"Mitsotakis puts all the \"weapons\" on the table against the Turkish aggression.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505989Z",
+       "updated_at":"2024-02-11T21:32:13.208156Z",
+       "project":95
+    },
+    {
+       "id":51115,
+       "annotations":[
+          {
+             "id":4029,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"HhCY0cdzsp",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"7DXJpSu1OW",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:35:15.709999Z",
+             "updated_at":"2024-02-11T22:35:15.710045Z",
+             "lead_time":64.675,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51115
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":91,
+          "MWE":"αφήνω στην τύχη του κάποιον",
+          "Greek":"Οι Αμερικανοί άφησαν κυριολεκτικά στις τύχες τους τους Βρεττανούς στο Αιγαίο , με αποτέλεσμα να αποτύχουν παταγωδώς οι επιχειρήσεις στα Δωδεκάνησα ( δεν διέθεσαν παρά δύο σμήνη P38 Lightning ) .",
+          "GPT_aided":"\"The Americans literally left the British to their fate in the Aegean, resulting in the operations in the Dodecanese failing miserably (they deployed only two squadrons of P38 Lightning).\"\n",
+          "GPT_unaided":"\"The Americans literally left the British to their fate in the Aegean, resulting in the operations in the Dodecanese failing miserably (they deployed only two squadrons of P38 Lightning).\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.515555Z",
+       "updated_at":"2024-02-09T17:36:19.515570Z",
+       "project":95
+    },
+    {
+       "id":51114,
+       "annotations":[
+          {
+             "id":4027,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"A3e9kgc3k9",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"C17V6VSrd6",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"kAa9qzA9Sa",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:32:33.055352Z",
+             "updated_at":"2024-02-11T22:32:33.055388Z",
+             "lead_time":72.196,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51114
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":92,
+          "MWE":"αφήνω στην τύχη του κάποιον",
+          "Greek":"Αφού όλοι γνώριζαν ότι η Νέα Ορλεάνη κινδύνευε, και αφού τα δελτία θυέλλης έδειχναν ότι η «Κατρίνα» ερχόταν, πώς την άφησαν στη τύχη της όλοι αυτοί που έπρεπε να την οχυρώσουν και να προστατεύσουν τον πληθυσμό της;",
+          "GPT_aided":"\"Since everyone knew that New Orleans was at risk, and since the storm bulletins showed that 'Katrina' was coming, how did they leave it to its fate, all those who were supposed to fortify it and protect its population?\"\n",
+          "GPT_unaided":"\"Given that everyone knew that New Orleans was in danger, and that the storm bulletins indicated that 'Katrina' was coming, how did all those who should have fortified it and protected its population leave it to its fate?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.515490Z",
+       "updated_at":"2024-02-09T17:36:19.515505Z",
+       "project":95
+    },
+    {
+       "id":51113,
+       "annotations":[
+          {
+             "id":4028,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"Grj259w78S",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"54L2Og0hrT",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:32:50.347146Z",
+             "updated_at":"2024-02-11T22:32:50.347179Z",
+             "lead_time":14.489,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51113
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":93,
+          "MWE":"αφήνω στην τύχη του κάποιον",
+          "Greek":"Άφησε στην τύχη του ο Δήμος το πάρκο Αγίας Ειρήνης Μυτιλήνης-Εικόνες εγκατάλειψης",
+          "GPT_aided":"\"The Municipality left the Agia Eirini Mytilene Park to its fate - Images of abandonment\"\n",
+          "GPT_unaided":"\"Demetrius left to fate the park of Agia Irini in Mytilene - Images of abandonment\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.515424Z",
+       "updated_at":"2024-02-09T17:36:19.515438Z",
+       "project":95
+    },
+    {
+       "id":51112,
+       "annotations":[
+          {
+             "id":4026,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"BZBfZIfswv",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"2uY8xx2mqx",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:30:53.467592Z",
+             "updated_at":"2024-02-11T22:30:53.467622Z",
+             "lead_time":29.359,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51112
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":95,
+          "MWE":"αφήνω στην τύχη του κάποιον",
+          "Greek":"Κι αν η απόπειρα αποτύχει, προσπαθώ να επαναφέρω στη ζωή τον άνθρωπο, τον αφήνω στην τύχη του ή τον βοηθώ να πετύχει εκεί που απέτυχε;",
+          "GPT_aided":"\"And if the attempt fails, I try to revive the man, do I leave him to his fate or help him succeed where he failed?\"\n",
+          "GPT_unaided":"\"And if the attempt fails, I try to bring the man back to life, do I leave him to his fate or do I help him succeed where he failed?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.515358Z",
+       "updated_at":"2024-02-09T17:36:19.515375Z",
+       "project":95
+    },
+    {
+       "id":51111,
+       "annotations":[
+          {
+             "id":4025,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"v1aFU9Voqa",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"b0woGd7Oi0",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"yknsoJb6vx",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:30:22.872331Z",
+             "updated_at":"2024-02-11T22:30:22.872364Z",
+             "lead_time":55.414,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51111
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":96,
+          "MWE":"αφήνω στη μέση κάτι",
+          "Greek":"Το φράγμα της Νότιας στην Αλμωπία αφέθηκε μισό και για το φράγμα στο Στραβοπόταμο δεν γίνεται κουβέντα.",
+          "GPT_aided":"\"The dam in Notia in Almopia was left unfinished and no one talks about the dam in Stravopotamos.\"\n",
+          "GPT_unaided":"\"The dam of Notia in Almopia was left half-done and there is no discussion about the dam in Stravopotamos.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.515267Z",
+       "updated_at":"2024-02-09T17:36:19.515290Z",
+       "project":95
+    },
+    {
+       "id":51110,
+       "annotations":[
+          {
+             "id":4024,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"jqCXlUPDei",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"QJIRybqB9p",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:29:26.263476Z",
+             "updated_at":"2024-02-11T22:29:26.263538Z",
+             "lead_time":12.496,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51110
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":97,
+          "MWE":"αφήνω στη μέση κάτι",
+          "Greek":"Αφέθηκε η κουβέντα μας στη μέση.",
+          "GPT_aided":"Our conversation was left unfinished.\n",
+          "GPT_unaided":"Our conversation was left in the middle.\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.515006Z",
+       "updated_at":"2024-02-09T17:36:19.515020Z",
+       "project":95
+    },
+    {
+       "id":51109,
+       "annotations":[
+          {
+             "id":4023,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"33XbLhtonF",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"H5mQCpZb0V",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"Mf0U3JfU7a",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:29:11.837347Z",
+             "updated_at":"2024-02-11T22:29:11.837376Z",
+             "lead_time":34.728,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51109
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":98,
+          "MWE":"αφήνω στη μέση κάτι",
+          "Greek":"Συγκλονίζει ο Μαρούλης: «Δε μου αρέσει να αφήνω πράγματα στη μέση...»",
+          "GPT_aided":"Maroulis is shocking: \"I don't like to leave things unfinished...\"\n",
+          "GPT_unaided":"Maroulis is shocking: \"I don't like leaving things halfway...\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514945Z",
+       "updated_at":"2024-02-09T17:36:19.514960Z",
+       "project":95
+    },
+    {
+       "id":51108,
+       "annotations":[
+          {
+             "id":4022,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"HLYx7uHnsS",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"Zq-envFVcv",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"IUCz3B2fIJ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:28:33.677136Z",
+             "updated_at":"2024-02-11T22:28:33.677173Z",
+             "lead_time":54.85,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51108
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":99,
+          "MWE":"αφήνω στη μέση κάτι",
+          "Greek":"Και το προπονητικό μισό το άφησαν, με μόλις δύο γήπεδα και το ένα διαλυμένο!",
+          "GPT_aided":"\"And they left the coaching half unfinished, with just two fields and one destroyed!\"\n",
+          "GPT_unaided":"\"And they left the coaching half, with just two fields and one of them in ruins!\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514884Z",
+       "updated_at":"2024-02-09T17:36:19.514898Z",
+       "project":95
+    },
+    {
+       "id":51107,
+       "annotations":[
+          {
+             "id":4021,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"YwejIbInGk",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"OQ-gKFHMs-",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:27:37.955565Z",
+             "updated_at":"2024-02-11T22:27:37.955596Z",
+             "lead_time":34.91,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51107
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":101,
+          "MWE":"αφήνω στη μέση κάτι",
+          "Greek":"Το τελευταίο μάλιστα μου το άφησε μισό ο γάιδαρος.",
+          "GPT_aided":"\"The donkey left my last one especially half-done.\"\n",
+          "GPT_unaided":"\"The donkey especially left my last one half-finished.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514822Z",
+       "updated_at":"2024-02-09T17:36:19.514836Z",
+       "project":95
+    },
+    {
+       "id":51106,
+       "annotations":[
+          {
+             "id":4020,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"0uAU-0kVMK",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"xk2G-7YL9N",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"YEJuVymQwY",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:27:01.891633Z",
+             "updated_at":"2024-02-11T22:27:01.891700Z",
+             "lead_time":63.699,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51106
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":102,
+          "MWE":"αφήνω στη μέση κάτι",
+          "Greek":"Και το δεύτερο ότι αφού αποφάσισαν να το βελτιώσουν το άφησαν μισό.",
+          "GPT_aided":"\"And the second thing is that after they decided to improve it, they left it half-done.\"\n",
+          "GPT_unaided":"And the second thing is that after they decided to improve it, they left it halfway.\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514760Z",
+       "updated_at":"2024-02-09T17:36:19.514775Z",
+       "project":95
+    },
+    {
+       "id":51105,
+       "annotations":[
+          {
+             "id":4019,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"GVTz-GAj5l",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"K0uVAxezsU",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:25:56.567576Z",
+             "updated_at":"2024-02-11T22:25:56.567613Z",
+             "lead_time":30.976,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51105
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":103,
+          "MWE":"αφήνω στη μέση κάτι",
+          "Greek":"Τον άφησε στη μέση του δωματίου και πήγε λυπημένη στην μπαλκονόπορτα.",
+          "GPT_aided":"She left him in the middle of the room and walked sadly to the balcony door.\n",
+          "GPT_unaided":"\"She left him in the middle of the room and sadly went to the balcony door.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514699Z",
+       "updated_at":"2024-02-09T17:36:19.514713Z",
+       "project":95
+    },
+    {
+       "id":51104,
+       "annotations":[
+          {
+             "id":4018,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"u1d3GLPBwT",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"4tx_yRFsvN",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:25:24.534371Z",
+             "updated_at":"2024-02-11T22:25:24.534402Z",
+             "lead_time":22.517,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51104
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":302,
+          "MWE":"κόβω την κουβέντα σε κάποιον",
+          "Greek":"Οταν κόβω την κουβέντα σε κάποιον και του λέω ξεκάθαρα ότι με ενοχλεί οφείλει να φύγει.",
+          "GPT_aided":"\"When I cut someone off in conversation and clearly tell them that they are bothering me, they should leave.\"\n",
+          "GPT_unaided":"\"When I cut a conversation short with someone and tell them clearly that they are bothering me, they ought to leave.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514637Z",
+       "updated_at":"2024-02-09T17:36:19.514652Z",
+       "project":95
+    },
+    {
+       "id":51103,
+       "annotations":[
+          {
+             "id":4017,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"Xc16cMio9z",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"t6TmUwBQ61",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:25:00.951924Z",
+             "updated_at":"2024-02-11T22:25:00.951962Z",
+             "lead_time":127.843,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51103
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":303,
+          "MWE":"κόβω την κουβέντα σε κάποιον",
+          "Greek":"Ο υπουργός Εξωτερικών Δημήτρης Αβραμόπουλος έκοψε αμέσως την κουβέντα με ένα κείμενο που έχει τόνο και περιεχόμενο στο οποίο εδώ και πάρα πολύ καιρό δεν μας έχει συνηθίσει η πολιτική και διπλωματική γλώσσα στην Ελλάδα – κι αυτό όχι μόνον στα ελληνοτουρκικά...",
+          "GPT_aided":"\"The Foreign Minister Dimitris Avramopoulos immediately ended the discussion with a text that has tone and substance which, for a very long time, is not familiar to us in political and diplomatic language in Greece - and not only in Greek-Turkish...\"\n",
+          "GPT_unaided":"\"The Foreign Minister, Dimitris Avramopoulos, abruptly ended the conversation with a text that has tone and content to which we have not been accustomed by the political and diplomatic language in Greece for a very long time - and this not only applies to Greek-Turkish relations...\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514575Z",
+       "updated_at":"2024-02-09T17:36:19.514590Z",
+       "project":95
+    },
+    {
+       "id":51102,
+       "annotations":[
+          {
+             "id":4016,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"Ql18pzcs_9",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"fQ25SVHKjs",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:22:50.932964Z",
+             "updated_at":"2024-02-11T22:22:50.932997Z",
+             "lead_time":20.977,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51102
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":304,
+          "MWE":"κόβω την κουβέντα σε κάποιον",
+          "Greek":"Ο Σόιμπλε κόβει την κουβέντα για το \"τέλος της λιτότητας\"",
+          "GPT_aided":"\"Soible cuts the discussion about the 'end of austerity'\"\n",
+          "GPT_unaided":"\"Soeble cuts the conversation about the 'end of austerity'\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514509Z",
+       "updated_at":"2024-02-09T17:36:19.514523Z",
+       "project":95
+    },
+    {
+       "id":51101,
+       "annotations":[
+          {
+             "id":4015,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"gbTubuxx0k",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"GGe8L1rSPQ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:22:29.129355Z",
+             "updated_at":"2024-02-11T22:22:29.129394Z",
+             "lead_time":11.332,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51101
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":305,
+          "MWE":"κόβω την κουβέντα σε κάποιον",
+          "Greek":"Μόλις τον είδαμε εμείς κόψαμε την κουβέντα.",
+          "GPT_aided":"As soon as we saw him, we stopped the conversation.\n",
+          "GPT_unaided":"\"As soon as we saw him, we stopped talking.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514447Z",
+       "updated_at":"2024-02-09T17:36:19.514462Z",
+       "project":95
+    },
+    {
+       "id":51100,
+       "annotations":[
+          {
+             "id":4014,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"-HqBTkUdMj",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"ww0x7Mm69_",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:22:16.420888Z",
+             "updated_at":"2024-02-11T22:22:16.420922Z",
+             "lead_time":32.015,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51100
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":306,
+          "MWE":"κόβω την κουβέντα σε κάποιον",
+          "Greek":"«Κόβουν» την κουβέντα περί Τατσόπουλου στον ΣΥΡΙΖΑ -Επαναφορά της ατζέντας στα τρέχοντα θέματα",
+          "GPT_aided":"\"They cut off the conversation about Tatsopoulos in SYRIZA - Re-introduction of the agenda to current affairs\"\n",
+          "GPT_unaided":"\"They cut off\" the conversation about Tatsopoulos in SYRIZA - Returning the agenda to the current issues.\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514384Z",
+       "updated_at":"2024-02-09T17:36:19.514399Z",
+       "project":95
+    },
+    {
+       "id":51099,
+       "annotations":[
+          {
+             "id":4013,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"D7vNUFutq7",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"VhVBLfcmKY",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:21:43.180933Z",
+             "updated_at":"2024-02-11T22:21:43.180967Z",
+             "lead_time":19.196,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51099
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":307,
+          "MWE":"κόβω την κουβέντα σε κάποιον",
+          "Greek":"Σε ποιο σημείο κόπηκε η κουβέντα;",
+          "GPT_aided":"The Greek text \"Σε ποιο σημέιο κόπηκε η κουβέντα;\" translates into English as \"At what point was the conversation cut off?\"\n",
+          "GPT_unaided":"\"At what point did the conversation stop?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514307Z",
+       "updated_at":"2024-02-09T17:36:19.514322Z",
+       "project":95
+    },
+    {
+       "id":51098,
+       "annotations":[
+          {
+             "id":4012,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"Nqw2wUMRs6",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"FGdIp9LKiV",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:21:22.690328Z",
+             "updated_at":"2024-02-11T22:21:22.690362Z",
+             "lead_time":59.916,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51098
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":309,
+          "MWE":"κόβω την όρεξη σε κάποιον",
+          "Greek":"Πάντως, αν θες να σιχαθείς αγαπητικό, να σου κοπεί η όρεξη που λένε, εκτός από το να πας σε μέντιουμ, είναι να τον φαντάζεσαι να κάνει τα κακά του!",
+          "GPT_aided":"\"Surely, if you want to be repelled by a lover, to lose your appetite for them, so to speak, other than going to a medium, is to imagine them doing their business!\"\n",
+          "GPT_unaided":"\"Definitely, if you want to become disgusted with your lover, to lose your appetite so to speak, apart from going to see him in the bathroom, it's to imagine him doing his bodily functions!\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514242Z",
+       "updated_at":"2024-02-09T17:36:19.514258Z",
+       "project":95
+    },
+    {
+       "id":51097,
+       "annotations":[
+          {
+             "id":4011,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"-46mzuLBS8",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Pv-pXh_b6f",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:20:21.382783Z",
+             "updated_at":"2024-02-11T22:20:21.382835Z",
+             "lead_time":103.516,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51097
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":310,
+          "MWE":"κόβω την όρεξη σε κάποιον",
+          "Greek":"Σούπερ πρόταση για τον Πέτρο Μάνταλο ετοίμαζε πορτογαλική ομάδα, της οποίας ωστόσο την όρεξη έκοψε ο Δημήτρης Μελισσανίδης, ο οποίος ήταν κάθετος στο θέμα πώλησης του ποδοσφαιριστή.",
+          "GPT_aided":"A Portuguese team was preparing a superb offer for Petros Mantalos, but Dimitris Melissanidis, who was adamant on the issue of selling the player, discouraged them.\n",
+          "GPT_unaided":"\"A Portuguese team was preparing a super offer for Petros Mantalos, however, their enthusiasm was curbed by Dimitris Melissanidis, who was adamant on the issue of the player's sale.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514143Z",
+       "updated_at":"2024-02-09T17:36:19.514158Z",
+       "project":95
+    },
+    {
+       "id":51096,
+       "annotations":[
+          {
+             "id":4010,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"2fkTfhWpK8",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"AGJiZ4VWWO",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"5bY1tpYDyY",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:18:34.661317Z",
+             "updated_at":"2024-02-11T22:18:34.661378Z",
+             "lead_time":58.217,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51096
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":311,
+          "MWE":"κόβω την όρεξη σε κάποιον",
+          "Greek":"Την... όρεξη έκοψε στους ανθρώπους της Παρί Σεν Ζερμέν ο τεχνικός της Μάντσεστερ Γιουνάιτεντ, Λουίς Φαν Χάαλ, ο οποίος με δηλώσεις του τόνισε πως ο Γιανουζάι δεν πάει πουθενά.",
+          "GPT_aided":"Manchester United's manager, Louis Van Gaal, dashed the hopes of Paris Saint-Germain fans by stating that Januzaj is not going anywhere.\n",
+          "GPT_unaided":"Manchester United's coach, Louis van Gaal, damped the enthusiasm of Paris Saint-Germain fans by stressing in his statements that Januzaj is not going anywhere.\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.514079Z",
+       "updated_at":"2024-02-09T17:36:19.514094Z",
+       "project":95
+    },
+    {
+       "id":51091,
+       "annotations":[
+          {
+             "id":4005,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"3FWwGgiWLL",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"2gyL1_FeM8",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"wYsF4ZAMDJ",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:10:33.943027Z",
+             "updated_at":"2024-02-11T22:10:33.943117Z",
+             "lead_time":18.916,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51091
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":320,
+          "MWE":"βάζω το κεφάλι μου στον ντορβά",
+          "Greek":"Βάζω και πάλι το κεφάλι μου στο ντορβά.",
+          "GPT_aided":"\"I'm sticking my neck out again.\"\n",
+          "GPT_unaided":"\"I put my head in the stocks again.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.513678Z",
+       "updated_at":"2024-02-09T17:36:19.513709Z",
+       "project":95
+    },
+    {
+       "id":51089,
+       "annotations":[
+          {
+             "id":4003,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"M8bUw399vH",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"CkN5GFYffP",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"r9SzV8M7rj",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:09:33.705847Z",
+             "updated_at":"2024-02-11T22:09:33.705886Z",
+             "lead_time":59.927,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51089
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":323,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Τόνισε δε ότι δεν θέλει να έχει οπαδούς και κατηγόρησε τον πρωθυπουργό ότι «έχει κόψει όλες τις γέφυρες επικοινωνίας».",
+          "GPT_aided":"He emphasized that he did not want to have followers and he criticized the Prime Minister for \"burning all the bridges of communication\".\n",
+          "GPT_unaided":"He emphasized that he doesn't want to have followers and accused the Prime Minister that he \"has cut all bridges of communication\".\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.513487Z",
+       "updated_at":"2024-02-09T17:36:19.513518Z",
+       "project":95
+    },
+    {
+       "id":51088,
+       "annotations":[
+          {
+             "id":4002,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"NYveYj7aAN",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"mLjyCZxRmW",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"8J_rnX2Vum",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:08:31.863140Z",
+             "updated_at":"2024-02-11T22:08:31.863192Z",
+             "lead_time":57.277,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51088
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":324,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Ο ΣΥΡΙΖΑ θα κόψει γρήγορα τις γέφυρες επικοινωνίας με τους εταίρους",
+          "GPT_aided":"\"SYRIZA will quickly burn its bridges with partners.\"\n",
+          "GPT_unaided":"\"SYRIZA will quickly cut off communication bridges with partners.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.507434Z",
+       "updated_at":"2024-02-09T17:36:19.507449Z",
+       "project":95
+    },
+    {
+       "id":51087,
+       "annotations":[
+          {
+             "id":4000,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"aE2dFOpY_y",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"u9P9XQmQDl",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"uw4TGUunCl",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:05:04.479947Z",
+             "updated_at":"2024-02-11T22:05:04.479980Z",
+             "lead_time":63.137,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51087
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":325,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Ο Ερντογάν κόβει οριστικά τις γέφυρες με Άσαντ.",
+          "GPT_aided":"\"Erdogan definitively burns his bridges with Assad.\"\n",
+          "GPT_unaided":"\"Erdogan definitively burns bridges with Assad.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.507371Z",
+       "updated_at":"2024-02-09T17:36:19.507387Z",
+       "project":95
+    },
+    {
+       "id":51085,
+       "annotations":[
+          {
+             "id":3999,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"Tj_G1qCcys",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"fhekBaFVW-",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"TEgCyaYbuQ",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:03:29.111671Z",
+             "updated_at":"2024-02-11T22:03:29.111709Z",
+             "lead_time":25.914,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51085
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":327,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Γιατί δεν κόβουν τις γέφυρες σε αυτούς τους περιθωριακούς ;",
+          "GPT_aided":"\"Why don't they burn their bridges with these marginal people?\"\n",
+          "GPT_unaided":"\"Why don't they cut off the bridges to these marginalized people?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.507218Z",
+       "updated_at":"2024-02-09T17:36:19.507233Z",
+       "project":95
+    },
+    {
+       "id":51084,
+       "annotations":[
+          {
+             "id":3998,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"TmnKBmGDKD",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"4W6LTRSAhW",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"E26QIVy-yY",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:02:40.937069Z",
+             "updated_at":"2024-02-11T22:02:40.937156Z",
+             "lead_time":53.195,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51084
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":328,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Ο μεγάλος γιος, ο λογικός, που έχει κόψει κάθε γέφυρα με το παρελθόν του, ίσως γίνει Ελληνας ...",
+          "GPT_aided":"\"The great son, the logical one, who has burned all bridges with his past, may become Greek ...\"\n",
+          "GPT_unaided":"\"The older son, the rational one, who has cut off all bridges with his past, might become Greek...\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.507154Z",
+       "updated_at":"2024-02-09T17:36:19.507169Z",
+       "project":95
+    },
+    {
+       "id":51083,
+       "annotations":[
+          {
+             "id":3997,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"GfvuMe6nP5",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"wH-etI6asM",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:01:46.682706Z",
+             "updated_at":"2024-02-11T22:01:46.682738Z",
+             "lead_time":24.406,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51083
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":329,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Εκοψε τις γέφυρες ο Λαφαζάνης.",
+          "GPT_aided":"\"Lafazanis burned his bridges.\"\n",
+          "GPT_unaided":"\"Lafazanis burned the bridges.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.507087Z",
+       "updated_at":"2024-02-09T17:36:19.507104Z",
+       "project":95
+    },
+    {
+       "id":51082,
+       "annotations":[
+          {
+             "id":3996,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"3y2XRJACWr",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"O2DzkyKl3n",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:01:20.440097Z",
+             "updated_at":"2024-02-11T22:01:20.440129Z",
+             "lead_time":78.072,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51082
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":330,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Τις γέφυρες έκοψες γιατί χίλιες συγνώμες κι αν άκουσες κι άλλες τόσες αν ακούσεις δεν αρκούν.",
+          "GPT_aided":"\"Why did you burn the bridges? Even if you heard a thousand apologies and heard as many more, it's not enough.\"\n",
+          "GPT_unaided":"\"Why did you burn bridges, because a thousand apologies are not enough even if you heard them and many more will not suffice.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.507007Z",
+       "updated_at":"2024-02-09T17:36:19.507022Z",
+       "project":95
+    },
+    {
+       "id":51081,
+       "annotations":[
+          {
+             "id":3995,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"L7eF3kOAUh",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"TOtctDpsTU",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"FjNqx_Ng0k",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T22:00:01.348900Z",
+             "updated_at":"2024-02-11T22:00:01.348933Z",
+             "lead_time":88.831,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51081
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":331,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Τα σβήνω όλα, κείμενα και εικόνες, κόβω τις γέφυρες επικοινωνίας, παραιτούμαι οριστικά απ’ αυτό που ήταν μέχρι τώρα μέρος της πραγματικότητας μου.",
+          "GPT_aided":"\"I'm erasing everything, texts and images, I'm burning the bridges of communication, I'm definitively resigning from what has been part of my reality until now.\"\n",
+          "GPT_unaided":"\"I erase everything, texts and images, I cut off communication bridges, I definitively resign from what was until now part of my reality.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506937Z",
+       "updated_at":"2024-02-09T17:36:19.506956Z",
+       "project":95
+    },
+    {
+       "id":51080,
+       "annotations":[
+          {
+             "id":3994,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"NiLJY4rBVP",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"PLonKCpHH2",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"0pYK2pOF-U",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:58:30.788092Z",
+             "updated_at":"2024-02-11T21:58:30.788123Z",
+             "lead_time":161.268,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51080
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":332,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Ο Τσίπρας έκοψε τις γέφυρες συνεννόησης πολύ νωρίς",
+          "GPT_aided":"\"Tsipras burned his bridges of communication too early.\"\n",
+          "GPT_unaided":"\"Tsipras cut the bridges of communication too early.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506803Z",
+       "updated_at":"2024-02-09T17:36:19.506828Z",
+       "project":95
+    },
+    {
+       "id":51079,
+       "annotations":[
+          {
+             "id":3993,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"eeA6PGsyx6",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Qh2GgUWWBC",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:55:48.291110Z",
+             "updated_at":"2024-02-11T21:55:48.291144Z",
+             "lead_time":21.687,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51079
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":333,
+          "MWE":"κόβω τις γέφυρες σε κάποιον ",
+          "Greek":"Αυτό δεν σημαίνει πως κόβεις τις γέφυρες επικοινωνίας.",
+          "GPT_aided":"The English translation of \"Αυτό δεν σημαίνει πως κόβεις τις γέφυρες επικοινωνίας.\" is \"This doesn't mean you are burning the bridges of communication.\"\n",
+          "GPT_unaided":"\"This does not mean you are burning the bridges of communication.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506741Z",
+       "updated_at":"2024-02-09T17:36:19.506755Z",
+       "project":95
+    },
+    {
+       "id":51078,
+       "annotations":[
+          {
+             "id":3992,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"IKB4UXGL7K",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"_yAFJrsNxK",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:55:25.452119Z",
+             "updated_at":"2024-02-11T21:55:25.452154Z",
+             "lead_time":32.043,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51078
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":335,
+          "MWE":"κόβω τη φλέβα μου",
+          "Greek":"Είχε βιντεοβραδιά ο Κωνσταντίνος χθες. Κόβαμε φλέβες πάλι, μιλάμε...",
+          "GPT_aided":"Konstantinos had a movie night yesterday. We were bored to death again, I'm telling you...\n",
+          "GPT_unaided":"\"Konstantinos had a movie night yesterday. We were dying of boredom again, seriously...\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506678Z",
+       "updated_at":"2024-02-09T17:36:19.506693Z",
+       "project":95
+    },
+    {
+       "id":51076,
+       "annotations":[
+          {
+             "id":3990,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"ap_BLl1BZq",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:52:18.971300Z",
+             "updated_at":"2024-02-11T21:52:18.971333Z",
+             "lead_time":1.045,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51076
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":337,
+          "MWE":"κόβω τη φλέβα μου",
+          "Greek":"Χτίζεις το πρώτο σου κτίριο και αμέσως θέλεις να χτίσεις ένα μεγαλύτερο και θέλεις να μένεις σε μεγαλύτερο σπίτι, και αν δεν είναι στο Μπάκχεντ είσαι έτοιμος να κόψεις τις φλέβες σου.",
+          "GPT_aided":"\"You're building your first house and immediately you want to build a bigger one and you want to live in a bigger house, and if it's not in Baxchent, you're ready to be bored to death.\"\n",
+          "GPT_unaided":"\"You build your first building and immediately want to build a bigger one, and you want to live in a bigger house, and if it's not in Buckhead, you're ready to slit your wrists.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506550Z",
+       "updated_at":"2024-02-09T17:36:19.506565Z",
+       "project":95
+    },
+    {
+       "id":51075,
+       "annotations":[
+          {
+             "id":3989,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"OUGYXUZvpH",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"-jvOSDlZZz",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"yFF_JLrT-p",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:49:22.329557Z",
+             "updated_at":"2024-02-11T21:49:22.329608Z",
+             "lead_time":137.427,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51075
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":339,
+          "MWE":"κόβω τη φλέβα μου",
+          "Greek":"Φλέβες κόβουν κυρίως οι Κινέζοι ως αποτέλεσμα της πρόσφατης γνωριμίας τους με το ποδόσφαιρο ως brand name.",
+          "GPT_aided":"\"The Chinese are mainly getting bored to death as a result of their recent exposure to football as a brand name.\"\n",
+          "GPT_unaided":"\"Veins are mainly cut by the Chinese as a result of their recent acquaintance with football as a brand name.\"\n\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506485Z",
+       "updated_at":"2024-02-09T17:36:19.506500Z",
+       "project":95
+    },
+    {
+       "id":51074,
+       "annotations":[
+          {
+             "id":3991,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"1F7Jwn1GqK",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Wc_eh9kQhI",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"CAthDBSeaE",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:53:42.455859Z",
+             "updated_at":"2024-02-11T21:53:42.455908Z",
+             "lead_time":81.589,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51074
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":341,
+          "MWE":"βάζω στο συρτάρι κάτι",
+          "Greek":"Την ίδια εποχή, 2017, τα ημέτερα επιθετικά APACHE (με μηδενική εγχώρια προστιθέμενη αξία, γιατί έτσι τα κανόνιζε ο κ. Παπαντωνίου που τα αγόραζε), που σήμερα είναι τεχνικά και υπηρεσιακά ανώτερα των προαναφερθέντων τουρκικών, θα έχουν απαξιωθεί σημαντικά, γιατί οι άφρονες Υπουργοί κ.κ. Βενιζέλος και Μπεγλίτης παρέλειψαν (έβαλαν στο συρτάρι) την πρόταση του ΓΕΣ (Φράγκος – Λυμπέρης) για εκσυγχρονισμό που ήταν ΑΝΑΓΚΑΙΟΣ.",
+          "GPT_aided":"\"At the same period, 2017, our APACHE offensive vehicles (with zero domestic added value, because that's how Mr. Papantoniou, who bought them, arranged it), which today are technically and operationally superior to the aforementioned Turkish ones, will have significantly depreciated because the reckless Ministers, Messrs. Venizelos and Beglitis, disregarded (shelved) the Greek Army's (Fragkos - Lymperis) proposal for necessary modernization.\"\n",
+          "GPT_unaided":"\"At the same time, in 2017, our APACHE offensive systems (with zero domestic added value, because that's how Mr. Papantoniou who bought them had arranged it), which are technically and operationally superior to the aforementioned Turkish ones, have been significantly devalued, because the foolish Ministers Mr. Venizelos and Beglitis overlooked (put in the drawer) the proposal of the Hellenic National Defence General Staff (Frangos - Lymperis) for a necessary modernization.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506422Z",
+       "updated_at":"2024-02-09T17:36:19.506437Z",
+       "project":95
+    },
+    {
+       "id":51073,
+       "annotations":[
+          {
+             "id":3986,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"67WwpVZXQB",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"iG0dH09g-X",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:44:39.246692Z",
+             "updated_at":"2024-02-11T21:44:39.246721Z",
+             "lead_time":15.149,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51073
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":343,
+          "MWE":"βάζω στο συρτάρι κάτι",
+          "Greek":"Άλλη μια ευρεσιτεχνία που την έβαλαν στο συρτάρι.",
+          "GPT_aided":"\"Another invention they just disregarded.\"\n",
+          "GPT_unaided":"\"Another invention that they put in the drawer.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506349Z",
+       "updated_at":"2024-02-09T17:36:19.506365Z",
+       "project":95
+    },
+    {
+       "id":51072,
+       "annotations":[
+          {
+             "id":3985,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"FNkch_aDAh",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"ubZIsayaJB",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"UR7GP1lDaS",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:44:22.918888Z",
+             "updated_at":"2024-02-11T21:44:22.918928Z",
+             "lead_time":75.776,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51072
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":344,
+          "MWE":"βάζω στο συρτάρι κάτι",
+          "Greek":"Πήρε και τον νόμο 2266/94 για τους ελεγκτές Δημόσιας Διοίκησης και τον έβαλε κατευθείαν στο συρτάρι: θέλει να το συζητήσει το πράγμα από την αρχή.",
+          "GPT_aided":"\"He took the Law 2266/94 related to Public Administration Inspectors and put it straight in the drawer: he wants to discuss the matter from the beginning.\"\n",
+          "GPT_unaided":"\"He took the law 2266/94 for the Public Administration inspectors and put it straight in the drawer: he wants to discuss the matter from the beginning.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506276Z",
+       "updated_at":"2024-02-09T17:36:19.506292Z",
+       "project":95
+    },
+    {
+       "id":51071,
+       "annotations":[
+          {
+             "id":3984,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"4OGsKEiVBo",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Xl3ojOVSE1",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"2h6v6j7_UC",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:43:06.019011Z",
+             "updated_at":"2024-02-11T21:43:06.019095Z",
+             "lead_time":68.719,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51071
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":345,
+          "MWE":"βάζω στο τραπέζι κάτι",
+          "Greek":"Τότε γιατί το έβαλαν στο τραπέζι οι Γερμανοί;",
+          "GPT_aided":"\"Then why did the Germans bring it to the table?\"\n",
+          "GPT_unaided":"The English translation is \"Then why did the Germans put it on the table?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506202Z",
+       "updated_at":"2024-02-09T17:36:19.506218Z",
+       "project":95
+    },
+    {
+       "id":51070,
+       "annotations":[
+          {
+             "id":3987,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"BhODE0hscV",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"hLwnFdAqnM",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"2gN7sE6xPR",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:46:18.173829Z",
+             "updated_at":"2024-02-11T21:46:18.173877Z",
+             "lead_time":68.398,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51070
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":347,
+          "MWE":"βάζω στο τραπέζι κάτι",
+          "Greek":"Τι επιδιώκαμε όλο το προηγούμενο διάστημα; Να αποτρέψουμε τις προσπάθειες της Τουρκίας να βάλει στο τραπέζι των συνομιλιών τα θέματα του φυσικού αερίου.",
+          "GPT_aided":"\"What were we pursuing all this previous period? To prevent Turkey's attempts to bring the natural gas issues to the negotiation table.\"\n",
+          "GPT_unaided":"\"What have we been pursuing all this previous period? To prevent Turkey's attempts to bring the natural gas issues to the negotiation table.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506129Z",
+       "updated_at":"2024-02-09T17:36:19.506144Z",
+       "project":95
+    },
+    {
+       "id":51069,
+       "annotations":[
+          {
+             "id":3988,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"C_32kDCP-N",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"-kHaJCfCMJ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"Jk5v1bDbNO",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:46:54.975420Z",
+             "updated_at":"2024-02-11T21:46:54.975462Z",
+             "lead_time":34.933,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51069
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":349,
+          "MWE":"βάζω στο τραπέζι κάτι",
+          "Greek":"Ποιες μεταρρυθμίσεις βάζει στο τραπέζι ο Βαρουφάκης και ποιες θα του επιβάλουν οι εταίροι",
+          "GPT_aided":"\"What reforms does Varoufakis put on the table, and which ones will his partners impose on him?\"\n",
+          "GPT_unaided":"\"What reforms does Varoufakis put on the table and what will his partners impose on him?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.506060Z",
+       "updated_at":"2024-02-09T17:36:19.506077Z",
+       "project":95
+    },
+    {
+       "id":51067,
+       "annotations":[
+          {
+             "id":3982,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"wkSbuN1XZt",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"HnqDS2lUjw",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:30:31.338782Z",
+             "updated_at":"2024-02-11T21:30:31.338831Z",
+             "lead_time":180.139,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51067
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":351,
+          "MWE":"βάζω στο τραπέζι κάτι",
+          "Greek":"Σε ένα σημείο, το τσιγάρο βάλθηκε στο τραπέζι",
+          "GPT_aided":"\"At one point, the cigarette was put on the table.\" If we consider the context you provided, it could mean, \"At one point, the issue of cigarette was brought up for discussion\" or \"At one point, the topic of cigarette was put on the table.\"\n",
+          "GPT_unaided":"\"At one point, the cigarette was placed on the table.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505927Z",
+       "updated_at":"2024-02-09T17:36:19.505942Z",
+       "project":95
+    },
+    {
+       "id":51066,
+       "annotations":[
+          {
+             "id":3981,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"0fcSCgCDaQ",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"CwDXhj2pg_",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:27:29.772054Z",
+             "updated_at":"2024-02-11T21:27:29.772097Z",
+             "lead_time":50.468,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51066
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":352,
+          "MWE":"βάζω στο τραπέζι κάτι",
+          "Greek":"Από τα Τρίκαλα ο πρόεδρος της Ν.Δ έβαλε πάλι στο τραπέζι σενάρια κυβέρνησης συνεργασίας, αλλά αυτή τη φορά με τις φιλοευρωπαϊκές δυνάμεις.",
+          "GPT_aided":"From Trikala, the president of New Democracy brought back to the table scenarios of government cooperation, but this time with pro-European forces.\n",
+          "GPT_unaided":"\"From Trikala, the president of New Democracy has once again put on the table the scenarios of a coalition government, but this time with pro-European forces.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505864Z",
+       "updated_at":"2024-02-09T17:36:19.505879Z",
+       "project":95
+    },
+    {
+       "id":51065,
+       "annotations":[
+          {
+             "id":3980,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"p6aDPJtyFa",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"wndKZ0PegM",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:26:37.550375Z",
+             "updated_at":"2024-02-11T21:26:37.550420Z",
+             "lead_time":52.974,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51065
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":353,
+          "MWE":"βάζω στην τσέπη μου κάποιον",
+          "Greek":"Σε ποιον να κάνουν τον ενδιάμεσο; Ποιους να βάλουν στο τσεπάκι; Οι Συριζαίοι έχουν την τύφλα τους σε κάποιες περιπτώσεις από διακυβέρνηση.",
+          "GPT_aided":"\"Who should they make the intermediary? Who should they tuck in their pocket? The Syriza members are in the dark in some cases when it comes to governance.\"\n",
+          "GPT_unaided":"\"Who should they make the intermediary? Who should they put in their pocket? Syriza members are blinded in some cases by governance.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505801Z",
+       "updated_at":"2024-02-09T17:36:19.505815Z",
+       "project":95
+    },
+    {
+       "id":51064,
+       "annotations":[
+          {
+             "id":3979,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"orv58BJ7Bg",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"mEruB7W7WZ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:25:43.324737Z",
+             "updated_at":"2024-02-11T21:25:43.324776Z",
+             "lead_time":6.182,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51064
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":354,
+          "MWE":"βάζω στην τσέπη μου κάποιον",
+          "Greek":"Ο Σαρκοζί έβαλε στο τσεπάκι του τη Μέρκελ.",
+          "GPT_aided":"\"Sarkozy put Merkel in his pocket.\"\n",
+          "GPT_unaided":"\"Sarkozy put Merkel in his pocket.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505737Z",
+       "updated_at":"2024-02-09T17:36:19.505752Z",
+       "project":95
+    },
+    {
+       "id":51063,
+       "annotations":[
+          {
+             "id":3978,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"gDn9-ZJQx8",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"xQwUdoZT06",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"RJgYyTcMNZ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:25:34.707778Z",
+             "updated_at":"2024-02-11T21:25:34.707842Z",
+             "lead_time":99.772,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51063
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":355,
+          "MWE":"βάζω στην τσέπη μου κάποιον",
+          "Greek":"Ας μη δώσουν τη χαρά στα κόμματα του δικομματισμού να τους εξαπατήσουν για άλλη μια φορά, να τρίβουν τα χέρια τους γιατί τους έβαλαν στο τσεπάκι ξανά.",
+          "GPT_aided":"\"Do not give the pleasure to the parties of bipartisanship to deceive them for another time, rubbing their hands because they have them in their pocket again.\"\n",
+          "GPT_unaided":"\"Let's not give the joy to the parties of bipartisanship to deceive them once again, to rub their hands because they have put them back in their pocket.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505676Z",
+       "updated_at":"2024-02-09T17:36:19.505691Z",
+       "project":95
+    },
+    {
+       "id":51062,
+       "annotations":[
+          {
+             "id":3977,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"_U22AjRAUq",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Yj8lrpNHrn",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:23:34.755251Z",
+             "updated_at":"2024-02-11T21:23:34.755287Z",
+             "lead_time":52.564,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51062
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":357,
+          "MWE":"βάζω στην τσέπη μου κάποιον",
+          "Greek":"Ο Ρουμάνος βάζει στο τσεπάκι του τα μεγαλύτερα ονόματα του Χόλιγουντ.",
+          "GPT_aided":"\"The Romanian puts the biggest names of Hollywood in his pocket.\"\n",
+          "GPT_unaided":"\"The Romanian puts the biggest names of Hollywood in his pocket.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505612Z",
+       "updated_at":"2024-02-09T17:36:19.505627Z",
+       "project":95
+    },
+    {
+       "id":51061,
+       "annotations":[
+          {
+             "id":3976,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"F8lLEHZlqw",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"WyduuSayNT",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"3iekOPc3oi",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:22:40.839484Z",
+             "updated_at":"2024-02-11T21:22:40.839531Z",
+             "lead_time":68.797,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51061
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":358,
+          "MWE":"βάζω στην τσέπη μου κάποιον",
+          "Greek":"Πέρσι οι πράσινοι την έβαλαν στο... τσεπάκι τους, φέτος ωστόσο τα δεδομένα είναι διαφορετικά.",
+          "GPT_aided":"\"Last year, the greens had them in their... little pocket, however this year the situation is different.\"\n",
+          "GPT_unaided":"\"Last year, the greens put it in their... pocket, however this year the data is different.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505549Z",
+       "updated_at":"2024-02-09T17:36:19.505564Z",
+       "project":95
+    },
+    {
+       "id":51060,
+       "annotations":[
+          {
+             "id":3975,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"KbBczM5K41",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"1hbifytHTd",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:21:30.075526Z",
+             "updated_at":"2024-02-11T21:21:30.075569Z",
+             "lead_time":28.439,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51060
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":359,
+          "MWE":"βάζω στην τσέπη μου κάποιον",
+          "Greek":"Ο Σαρκοζί έβαλε επιτέλους στο τσεπάκι του τη Μέρκελ.",
+          "GPT_aided":"\"Sarkozy finally put Merkel in his pocket.\"\n",
+          "GPT_unaided":"\"Sarkozy finally put Merkel in his pocket.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.505484Z",
+       "updated_at":"2024-02-09T17:36:19.505499Z",
+       "project":95
+    },
+    {
+       "id":51047,
+       "annotations":[
+          {
+             "id":4057,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"m15VhH6XIA",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"DrFZxZJEFu",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"KKnIjlZveo",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:11:45.291974Z",
+             "updated_at":"2024-02-12T19:11:45.292025Z",
+             "lead_time":33.714,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51047
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":376,
+          "MWE":"βάζω πλώρη για κάτι",
+          "Greek":"Στη φετινή περίοδο με την πάροδο 20 αγωνιστικών ο Μίκαελ Ποτέ σκόραρε 15 γκολ, έσπασε το προσωπικό του ρεκόρ και έβαλε πλώρη για να αναδειχθεί πρώτος σκόρερ με διαφορά από τους υπολοίπους.",
+          "GPT_aided":"\"In this season, after 20 matches, Michael Pote scored 15 goals, breaking his personal record and setting course to be the top scorer by a margin compared to the rest.\"\n",
+          "GPT_unaided":"\"In the current season, after 20 matchdays, Mikael Pote has scored 15 goals, broke his personal record, and is on track to become the top scorer, far ahead of the others.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504626Z",
+       "updated_at":"2024-02-09T17:36:19.504641Z",
+       "project":95
+    },
+    {
+       "id":51046,
+       "annotations":[
+          {
+             "id":4056,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"dmXZQrBsJH",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"BNkrXZ1U6t",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"5wgeV6Jzyf",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:11:10.128858Z",
+             "updated_at":"2024-02-12T19:11:10.128911Z",
+             "lead_time":17.008,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51046
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":377,
+          "MWE":"βάζω πλώρη για κάτι",
+          "Greek":"Το Barbaros έβαλε πλώρη για νέες έρευνες",
+          "GPT_aided":"The Barbaros set a course for new research.\n",
+          "GPT_unaided":"\"Barbaros set sail for new researches.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504556Z",
+       "updated_at":"2024-02-09T17:36:19.504575Z",
+       "project":95
+    },
+    {
+       "id":51045,
+       "annotations":[
+          {
+             "id":4055,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"hIdVy3xYwp",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"yctzXEZ1a0",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"lc7pQXMOzO",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:10:51.725407Z",
+             "updated_at":"2024-02-12T19:10:51.725467Z",
+             "lead_time":79.047,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51045
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":380,
+          "MWE":"βάζω στη γωνία κάποιον",
+          "Greek":"Τελικά έβαλε στη γωνία τη Χάγη, εκμεταλλευόμενος τη γαλλική συμβουλή «να λύσουμε τις διαφορές μέσω ενός ανοιχτού ειρηνικού διαλόγου, άποψη με την οποία είμαστε απόλυτα σύμφωνοι».",
+          "GPT_aided":"In the end, he cornered The Hague, taking advantage of the French advice \"to resolve differences through an open peaceful dialogue, a viewpoint with which we absolutely agree.\"\n",
+          "GPT_unaided":"\"Eventually, he backed The Hague, capitalizing on the French advice to \"resolve differences through an open peaceful dialogue, a viewpoint we completely agree with\".\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504492Z",
+       "updated_at":"2024-02-09T17:36:19.504506Z",
+       "project":95
+    },
+    {
+       "id":51043,
+       "annotations":[
+          {
+             "id":4054,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"KQ466nwVvL",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"4TM6NqEFZf",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:09:26.114028Z",
+             "updated_at":"2024-02-12T19:09:26.114091Z",
+             "lead_time":78.498,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51043
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":383,
+          "MWE":"βάζω στη γωνία κάποιον",
+          "Greek":"\"Είναι καιρός - τονίζει - να εκλείψει μια ακολουθούμενη, επί 23 ολόκληρα χρόνια, απαράδεκτη πρακτική, η οποία έχει βάλει στη γωνία ένα πλήθος στελεχών και έναν ολόκληρο κόσμο, που σε παλαιότερους καιρούς έδιναν την πολιτική υπεροχή και παντοδυναμία στην παράταξή μας.",
+          "GPT_aided":"\"It's time - he emphasizes - to put an end to an unacceptable practice that has persisted for 23 full years, a practice that has put a multitude of members and an entire world, which in older times gave political supremacy and omnipotence to our faction, in a tight spot.\"\n",
+          "GPT_unaided":"\"It's time - he emphasizes - to end a following, unacceptable practice for 23 whole years, which has cornered a multitude of members and an entire world, which in older times granted political dominance and omnipotence to our faction.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504348Z",
+       "updated_at":"2024-02-09T17:36:19.504365Z",
+       "project":95
+    },
+    {
+       "id":51042,
+       "annotations":[
+          {
+             "id":4053,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"bYUvarTs3y",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"fx762zdHtk",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:08:06.554215Z",
+             "updated_at":"2024-02-12T19:08:06.554257Z",
+             "lead_time":24.747,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51042
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":384,
+          "MWE":"βάζω στο μάτι κάποιον",
+          "Greek":"Ο Γάλλος υπουργός Οικονομίας έβαλε... στο μάτι το 35ωρο - «Στέλνει αρνητικό μήνυμα»",
+          "GPT_aided":"\"The French Minister of Economy has set his sights on the 35-hour work week - 'It sends a negative message'\"\n",
+          "GPT_unaided":"\"The French Minister of Economy has set his sights on the 35-hour work week - \"It sends a negative message\"\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504266Z",
+       "updated_at":"2024-02-09T17:36:19.504282Z",
+       "project":95
+    },
+    {
+       "id":51041,
+       "annotations":[
+          {
+             "id":4052,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"AISckJiX9D",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"hfWBzo1JEq",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:07:40.498416Z",
+             "updated_at":"2024-02-12T19:07:40.498469Z",
+             "lead_time":68.669,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51041
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":385,
+          "MWE":"βάζω στο μάτι κάποιον",
+          "Greek":"Η δημοφιλία του, οι πολιτικές του επιρροές σε μία καταπιεσμένη από το κράτος κοινότητα, η λογική ροπή αυτής της κοινότητας στη βία και το εύκολο χρήμα αλλά και δικά του στραβοπατήματα, έκαναν τις αρχές να τον βάλουν στο μάτι.",
+          "GPT_aided":"\"His popularity, his political influences on a community oppressed by the state, the community's logical gravitation towards violence and easy money, but also his own missteps, led the authorities to keep a close eye on him.\"\n",
+          "GPT_unaided":"\"His popularity, his political influences on a community oppressed by the state, the logical inclination of this community towards violence and easy money, as well as his own missteps, caused the authorities to keep an eye on him.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504199Z",
+       "updated_at":"2024-02-09T17:36:19.504214Z",
+       "project":95
+    },
+    {
+       "id":51040,
+       "annotations":[
+          {
+             "id":4051,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Ai_iANQntz",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"BCuidxIPAj",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:06:30.187833Z",
+             "updated_at":"2024-02-12T19:06:30.187874Z",
+             "lead_time":12.093,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51040
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":386,
+          "MWE":"βάζω στο μάτι κάποιον",
+          "Greek":"Τι έβαλε πάλι στο μάτι ο φίλος Μιχάλης;",
+          "GPT_aided":"\"What has our friend Michalis set his eye on again?\"\n",
+          "GPT_unaided":"\"What did our friend Michael spot again?\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504132Z",
+       "updated_at":"2024-02-09T17:36:19.504147Z",
+       "project":95
+    },
+    {
+       "id":51039,
+       "annotations":[
+          {
+             "id":4050,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"8u4sWMbj4d",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"pJauyFBgrn",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:06:16.824205Z",
+             "updated_at":"2024-02-12T19:06:16.824247Z",
+             "lead_time":11.583,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51039
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":387,
+          "MWE":"βάζω στο μάτι κάποιον",
+          "Greek":"Συνταξιοδοτικό: \"Στο μάτι έβαλε\" η τρόικα όσους είναι κάτω από 62",
+          "GPT_aided":"\"Pension: The troika has set its sights on those under 62\"\n",
+          "GPT_unaided":"\"Pension: The troika has set its sights on those under 62.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.504065Z",
+       "updated_at":"2024-02-09T17:36:19.504083Z",
+       "project":95
+    },
+    {
+       "id":51038,
+       "annotations":[
+          {
+             "id":4049,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"xP6sQda9Lp",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"NrgZx3Mqr3",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:06:03.646899Z",
+             "updated_at":"2024-02-12T19:06:03.646959Z",
+             "lead_time":55.754,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51038
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":388,
+          "MWE":"βάζω στο μάτι κάποιον",
+          "Greek":"Στο μάτι έβαλαν οι κλέφτες την περιουσία των αγροτών του Αυλακίου Στυλίδας.",
+          "GPT_aided":"The thieves targeted the farmers' property in Aulakia, Stylish.\n",
+          "GPT_unaided":"\"The thieves targeted the property of the farmers in Avlaki, Styliada.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503987Z",
+       "updated_at":"2024-02-09T17:36:19.504001Z",
+       "project":95
+    },
+    {
+       "id":51037,
+       "annotations":[
+          {
+             "id":4048,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"UItq_j2V1p",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"qsNf1LeobP",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:05:00.886012Z",
+             "updated_at":"2024-02-12T19:05:00.886075Z",
+             "lead_time":21.974,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51037
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":389,
+          "MWE":"βάζω στο μάτι κάποιον",
+          "Greek":"Τι να πεί και η Όλγα, που έβαλε στο μάτι τον Ιβάν...",
+          "GPT_aided":"\"What can Olga say, who set her sights on Ivan...\"\n",
+          "GPT_unaided":"\"What is Olga supposed to say, who set her sights on Ivan...\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503924Z",
+       "updated_at":"2024-02-09T17:36:19.503939Z",
+       "project":95
+    },
+    {
+       "id":51036,
+       "annotations":[
+          {
+             "id":4047,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Bem6RwQjWN",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"MASScWGjRW",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:04:37.907325Z",
+             "updated_at":"2024-02-12T19:04:37.907368Z",
+             "lead_time":45.773,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51036
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":390,
+          "MWE":"βάζω στο μάτι κάποιον",
+          "Greek":"Στο μάτι έβαλαν (πάλι) το αποθεματικό του ΤΣΜΕΔΕ.",
+          "GPT_aided":"\"They have set their sights (again) on the reserve of TSMEDE.\" For context, TSMEDE is the Greek Pension Fund for Engineers and Contractors.\n",
+          "GPT_unaided":"\"They targeted (again) the reserve of TMEDE.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503862Z",
+       "updated_at":"2024-02-09T17:36:19.503876Z",
+       "project":95
+    },
+    {
+       "id":51035,
+       "annotations":[
+          {
+             "id":4046,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"A1L9YEcibu",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"V2Fj3jB1Il",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:03:50.770358Z",
+             "updated_at":"2024-02-12T19:03:50.770409Z",
+             "lead_time":21.493,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51035
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":392,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Όταν ο πρωθυπουργός βάζει «το μαχαίρι στο κόκκαλο», εμείς γελάμε..!",
+          "GPT_aided":"\"When the prime minister decides to cut to the bone, we laugh..!\"\n",
+          "GPT_unaided":"\"When the Prime Minister is 'getting down to the bone', we are laughing..!\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503799Z",
+       "updated_at":"2024-02-09T17:36:19.503814Z",
+       "project":95
+    },
+    {
+       "id":51034,
+       "annotations":[
+          {
+             "id":4045,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"IvNBODscHO",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"iCy9PFCtaK",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:03:16.917484Z",
+             "updated_at":"2024-02-12T19:03:16.917530Z",
+             "lead_time":29.271,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51034
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":393,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Το μαχαίρι στο κόκκαλο θα βάλουν οι παράγοντες του ποδοσφαίρου. -Να το βάλουν επιτέλους!",
+          "GPT_aided":"\"The football officials will put the knife to the bone. They should finally do it!\"\n",
+          "GPT_unaided":"\"The decision-makers of football will bring the knife to the bone. - They should finally do it!\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503736Z",
+       "updated_at":"2024-02-09T17:36:19.503751Z",
+       "project":95
+    },
+    {
+       "id":51033,
+       "annotations":[
+          {
+             "id":4044,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"WQGDde52n4",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"5-9fOGrSVQ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"g3Zlln7qeS",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:02:45.472620Z",
+             "updated_at":"2024-02-12T19:02:45.472674Z",
+             "lead_time":25.752,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51033
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":394,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Βαθιά το μαχαίρι στο κόκκαλο βάζουν οι διωκτικές αρχές.",
+          "GPT_aided":"\"The prosecuting authorities are pushing the knife to the bone.\"\n",
+          "GPT_unaided":"\"The prosecuting authorities are putting the knife deep into the bone.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503674Z",
+       "updated_at":"2024-02-09T17:36:19.503688Z",
+       "project":95
+    },
+    {
+       "id":51032,
+       "annotations":[
+          {
+             "id":4043,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"p43cF2wxBi",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"eBeEh6yVSa",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"p2yvI0XAI8",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:02:17.023750Z",
+             "updated_at":"2024-02-12T19:02:17.023812Z",
+             "lead_time":70.319,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51032
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":395,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Το μαχαίρι μέχρι το κόκκαλο βάζει η Τρόικα.",
+          "GPT_aided":"\"The Trojan woman drives the knife to the bone.\"\n",
+          "GPT_unaided":"\"The Troika puts the knife to the bone.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503613Z",
+       "updated_at":"2024-02-09T17:36:19.503628Z",
+       "project":95
+    },
+    {
+       "id":51031,
+       "annotations":[
+          {
+             "id":4042,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"fhI1Y6d47_",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"V_PyStl-XZ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"MR1h1tPLNJ",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:01:04.607187Z",
+             "updated_at":"2024-02-12T19:01:04.607246Z",
+             "lead_time":36.433,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51031
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":396,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Για μια ολόκληρη εβδομάδα ??? Καλά μιλάμε το μαχαίρι στο κόκκαλο έβαλαν πάλι....",
+          "GPT_aided":"\"For an entire week ??? Well, we're talking about implementing radical solutions again....\"\n",
+          "GPT_unaided":"\"For an entire week ??? Well, we are talking about they put the knife to the bone again...\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503552Z",
+       "updated_at":"2024-02-09T17:36:19.503567Z",
+       "project":95
+    },
+    {
+       "id":51030,
+       "annotations":[
+          {
+             "id":4041,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"dZF2Z9AttZ",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"fQTYXC8Weo",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T19:00:26.762794Z",
+             "updated_at":"2024-02-12T19:00:26.762841Z",
+             "lead_time":90.688,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51030
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":397,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Ήλθε λοιπόν η ώρα να βάλει το μαχαίρι της νέμεσης βαθιά ως το κόκκαλο, καθαρίζοντας το απόστημα της ηθικής σήψης και στέλνοντας φυλακή τους επίορκους και τους κλέπτες, αναγκάζοντάς τους να επιστρέψουν τα κλεμμένα.",
+          "GPT_aided":"\"So the time has come to drive the knife of retribution deep as the bone, cleansing the abscess of moral decay and sending to jail the perjurers and thieves, forcing them to return the stolen goods.\"\n",
+          "GPT_unaided":"\"So the time has come to plunge the knife of retribution deep into the bone, cleansing the abscess of moral decay and sending perjurers and thieves to prison, forcing them to return the stolen goods.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503490Z",
+       "updated_at":"2024-02-09T17:36:19.503505Z",
+       "project":95
+    },
+    {
+       "id":51029,
+       "annotations":[
+          {
+             "id":4040,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"HoP8DwgCqG",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"EgPKiz1v8t",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T18:58:54.817456Z",
+             "updated_at":"2024-02-12T18:58:54.817519Z",
+             "lead_time":49.643,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51029
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":398,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Σ'αγαπώ πολύ και για αυτό βάζω το μαχαίρι βαθιά ως το κόκκαλο, όχι μόνο για μένα αλλά και για σένα.",
+          "GPT_aided":"\"I love you very much and for that reason, I take the knife to the bone, not only for me but also for you.\" In a figurative sense, this could mean \"I love you very much and for that reason, I address matters radically or investigate without fear, not only for me, but also for you.\"\n",
+          "GPT_unaided":"\"I love you very much and for that reason, I plunge the knife deep into the bone, not only for me but also for you.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503423Z",
+       "updated_at":"2024-02-09T17:36:19.503438Z",
+       "project":95
+    },
+    {
+       "id":51028,
+       "annotations":[
+          {
+             "id":4039,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"Doj63sASiA",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"OqDYKxmNf2",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"cGfxG789bz",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T18:58:03.710192Z",
+             "updated_at":"2024-02-12T18:58:03.710242Z",
+             "lead_time":60.641,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51028
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":400,
+          "MWE":"βάζω το μαχαίρι στο κόκκαλο",
+          "Greek":"Το μαχαίρι στο κόκκαλο βάζουν οι καθηγητές σε Κυβέρνηση και μαθητές, αφού η συγκεκριμένη μέρα είναι η πρώτη των Πανελλαδικών Εξετάσεων.",
+          "GPT_aided":"\"The professors are bringing matters to a head with the Government and students, since this particular day is the first of the Panhellenic Exams.\"\n",
+          "GPT_unaided":"\"The teachers are putting the knife to the bone to the Government and students, since this specific day is the first of the Nationwide Examinations.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503355Z",
+       "updated_at":"2024-02-09T17:36:19.503371Z",
+       "project":95
+    },
+    {
+       "id":51027,
+       "annotations":[
+          {
+             "id":4038,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"5bprzmwu8q",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"RFYUQ4Kmz_",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T18:57:01.307764Z",
+             "updated_at":"2024-02-12T18:57:01.307844Z",
+             "lead_time":62.081,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51027
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":615,
+          "MWE":"βγάζω από την ησυχία του κάποιον",
+          "Greek":"...να τσαντίστηκε που τον έβγαλαν από την ησυχία του πάνω που είχε συνηθίσει.",
+          "GPT_aided":"\"...he got annoyed because they disturbed his peace just as he was getting used to it.\"\n",
+          "GPT_unaided":"\"...he got annoyed because they disturbed his peace which he had gotten used to.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503278Z",
+       "updated_at":"2024-02-09T17:36:19.503293Z",
+       "project":95
+    },
+    {
+       "id":51026,
+       "annotations":[
+          {
+             "id":4037,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":1
+                   },
+                   "id":"k3hz4WJpXo",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"Tc4FlXzwxr",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"d9Xk4VcFb9",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T18:55:57.752485Z",
+             "updated_at":"2024-02-12T18:55:57.752549Z",
+             "lead_time":73.736,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51026
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":635,
+          "MWE":"βγάζω ασπροπρόσωπo κάποιον",
+          "Greek":"Το «Μπρέντα 88» έβγαλε κάτι παραπάνω από ασπροπρόσωπο τον δημιουργό και κάτοχό του.",
+          "GPT_aided":"\"The 'Brenda 88' did more than just stand its creator and owner in good stead.\"\n",
+          "GPT_unaided":"\"The 'Brenda 88' made its creator and owner look more than satisfied.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503210Z",
+       "updated_at":"2024-02-09T17:36:19.503228Z",
+       "project":95
+    },
+    {
+       "id":51025,
+       "annotations":[
+          {
+             "id":4036,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"BaAuXfJW5S",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"Ig9KiQV1x1",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T18:54:42.579433Z",
+             "updated_at":"2024-02-12T18:54:42.579477Z",
+             "lead_time":17.495,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51025
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":637,
+          "MWE":"βγάζω ασπροπρόσωπo κάποιον",
+          "Greek":"Θεωρώ επίσης ότι βγάζω τον πατέρα μου ασπροπρόσωπο.",
+          "GPT_aided":"\"I also believe that I am making my father proud.\"\n",
+          "GPT_unaided":"\"I also believe that I make my father proud.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503141Z",
+       "updated_at":"2024-02-09T17:36:19.503156Z",
+       "project":95
+    },
+    {
+       "id":51024,
+       "annotations":[
+          {
+             "id":4035,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"OZgEXbz8_t",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"_9DdsDMfLF",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"K3VpC12Gez",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T18:54:12.413731Z",
+             "updated_at":"2024-02-12T18:54:12.413779Z",
+             "lead_time":68.034,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":51024
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":644,
+          "MWE":"βγάζω λάδι κάποιον",
+          "Greek":"Έτσι έβγαλαν λάδι φοροφυγά 5 εκατ. ευρώ.",
+          "GPT_aided":"\"Thus, they cleared off 5 million euros in tax evasion.\"\n",
+          "GPT_unaided":"\"They thus smuggled out oil, evading 5 million euros in taxes.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.503074Z",
+       "updated_at":"2024-02-09T17:36:19.503091Z",
+       "project":95
+    },
+    {
+       "id":50990,
+       "annotations":[
+          {
+             "id":3974,
+             "completed_by":{
+                "id":49,
+                "email":"achoi29@gmu.edu",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"right"
+                   },
+                   "id":"Pkf6owL3-4",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"cYHn02i2vd",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":2
+                   },
+                   "id":"_WTYfD7U6t",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-11T21:19:38.490309Z",
+             "updated_at":"2024-02-11T21:19:38.490376Z",
+             "lead_time":2.577,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":50990
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":5720,
+          "MWE":"ρίχνω τις γέφυρες",
+          "Greek":"' Ρίχνουν τις γέφυρες του καρκίνου'",
+          "GPT_aided":"\"They burn the bridges of the cancer\"\n\n",
+          "GPT_unaided":"\"They throw the bridges of cancer\".\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.500540Z",
+       "updated_at":"2024-02-09T17:36:19.500555Z",
+       "project":95
+    },
+    {
+       "id":50983,
+       "annotations":[
+          {
+             "id":4034,
+             "completed_by":{
+                "id":33,
+                "email":"natekrasner@gmail.com",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"gghbB2AADs",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"acj_yzjV6g",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":5
+                   },
+                   "id":"jUAtIMcMO5",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T00:20:52.034331Z",
+             "updated_at":"2024-02-12T00:20:52.034382Z",
+             "lead_time":34.059,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":50983
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":346,
+          "MWE":"βάζω στο τραπέζι κάτι",
+          "Greek":"Το ΔΝΤ βάζει στο τραπέζι τους στόχους του προϋπολογισμού",
+          "GPT_aided":"\"The IMF brings the budget goals to the table.\"\n",
+          "GPT_unaided":"\"The IMF sets the budget goals on the table\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.499976Z",
+       "updated_at":"2024-02-09T17:36:19.499991Z",
+       "project":95
+    },
+    {
+       "id":50982,
+       "annotations":[
+          {
+             "id":4033,
+             "completed_by":{
+                "id":33,
+                "email":"natekrasner@gmail.com",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"DhsXhCRjmk",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"V8SwWNOeWS",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T00:20:15.132842Z",
+             "updated_at":"2024-02-12T00:20:15.132894Z",
+             "lead_time":61.52,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":50982
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":363,
+          "MWE":"βάζω στο χέρι κάποιον",
+          "Greek":"Αφού έβαλαν στο χέρι τον ΟΤΕ, οι Γερμανοί (και οι ναζί συνεργάτες τους) “πιέζουν” για πώληση δημόσιας περιουσίας.",
+          "GPT_aided":"\"After they got OTE under their thumb, the Germans (and their Nazi accomplices) are \"pressuring\" for the sale of public property.\"\n",
+          "GPT_unaided":"\"After they took control of OTE, the Germans (and their Nazi collaborators) are 'pressuring' for the sale of public property.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.499914Z",
+       "updated_at":"2024-02-09T17:36:19.499929Z",
+       "project":95
+    },
+    {
+       "id":50981,
+       "annotations":[
+          {
+             "id":4032,
+             "completed_by":{
+                "id":33,
+                "email":"natekrasner@gmail.com",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"sQGHJpZhkP",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"jqr3jS4TH3",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"lEIg5IFGOL",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T00:19:10.920366Z",
+             "updated_at":"2024-02-12T00:19:10.920408Z",
+             "lead_time":59.071,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":50981
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":364,
+          "MWE":"βάζω στο χέρι κάποιον",
+          "Greek":"Αυτόν θέλουν να βάλουν στο χέρι οι διαβόλοι, δε θέλουν το Χριστό από το ιερό, δε θέλουν την εικόνα του Θεού.",
+          "GPT_aided":"\"The devils want to have him under their thumb, they don't want Christ from the sanctuary, they don't want the image of God.\"\n",
+          "GPT_unaided":"\"The devils want to put him in their power, they don't want Christ from the sanctuary, they don't want the image of God.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.499850Z",
+       "updated_at":"2024-02-09T17:36:19.499866Z",
+       "project":95
+    },
+    {
+       "id":50979,
+       "annotations":[
+          {
+             "id":4031,
+             "completed_by":{
+                "id":33,
+                "email":"natekrasner@gmail.com",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "selected":"left"
+                   },
+                   "id":"upVjiU2Mgc",
+                   "from_name":"pw",
+                   "to_name":"pw",
+                   "type":"pairwise"
+                },
+                {
+                   "value":{
+                      "rating":3
+                   },
+                   "id":"DEhIuatW3e",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"8n6Um_9r8m",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T00:12:23.104348Z",
+             "updated_at":"2024-02-12T00:12:23.104383Z",
+             "lead_time":89.696,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":50979
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":379,
+          "MWE":"βάζω πλώρη για κάτι",
+          "Greek":"Μετά από πολλές συζητησεις, αλλαγές, καθυστερήσεις και φήμες, το πολυαναμενόμενο reboot του κινηματογραφικού spider-man έβαλε επιτέλους πλώρη για τις αίθουσες.",
+          "GPT_aided":"\"After many discussions, changes, delays and rumors, the much-anticipated reboot of the Spider-Man movie has finally set its course towards the theaters.\"\n",
+          "GPT_unaided":"\"After many discussions, changes, delays, and rumors, the highly anticipated reboot of the cinematic Spider-Man finally set a course for the theatres.\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.499717Z",
+       "updated_at":"2024-02-09T17:36:19.499735Z",
+       "project":95
+    },
+    {
+       "id":50978,
+       "annotations":[
+          {
+             "id":4030,
+             "completed_by":{
+                "id":33,
+                "email":"natekrasner@gmail.com",
+                "first_name":"",
+                "last_name":""
+             },
+             "result":[
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"mu0fz9WLdf",
+                   "from_name":"quality1",
+                   "to_name":"text2",
+                   "type":"rating"
+                },
+                {
+                   "value":{
+                      "rating":4
+                   },
+                   "id":"zIqdhCgnaG",
+                   "from_name":"quality2",
+                   "to_name":"text1",
+                   "type":"rating"
+                }
+             ],
+             "was_cancelled":false,
+             "ground_truth":false,
+             "created_at":"2024-02-12T00:10:46.790374Z",
+             "updated_at":"2024-02-12T00:10:46.790408Z",
+             "lead_time":63.961,
+             "prediction":{
+                
+             },
+             "result_count":0,
+             "task":50978
+          }
+       ],
+       "predictions":[
+          
+       ],
+       "file_upload":"GPT_IDION_translations_annot.csv",
+       "data":{
+          "ID":378,
+          "MWE":"βάζω πλώρη για κάτι",
+          "Greek":"Βάλαμε πλώρη για τις 760.000 επισκέψεις…",
+          "GPT_aided":"\"We're heading straight for 760,000 visits...\"\n",
+          "GPT_unaided":"\"We set sail for 760,000 visits...\"\n\n"
+       },
+       "meta":{
+          
+       },
+       "created_at":"2024-02-09T17:36:19.499602Z",
+       "updated_at":"2024-02-09T17:36:19.499640Z",
+       "project":95
+    }
+ ]
