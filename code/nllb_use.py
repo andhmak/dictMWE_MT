@@ -31,7 +31,7 @@ for mwe in idion_for_aided_en_trans:
         inputs = tokenizer(prompt, return_tensors="pt")
 
         translated_tokens = model.generate(
-            **inputs, forced_bos_token_id=tokenizer.lang_code_to_id["eng_Latn"], max_length=30
+            **inputs, forced_bos_token_id=tokenizer.convert_tokens_to_ids("eng_Latn"), max_length=30
         )
 
         # Save the response
